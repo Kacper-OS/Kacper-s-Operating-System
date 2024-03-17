@@ -1,4 +1,4 @@
-# Kacper-s-Operating-System
+# Kacper's Operating System
 an Operating System
 
 **WIP**
